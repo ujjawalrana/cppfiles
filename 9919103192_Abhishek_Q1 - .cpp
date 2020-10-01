@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
-
+#include <iostream>
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);
 using namespace std;
 
 int evaluate(char x) {
